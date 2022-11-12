@@ -1,4 +1,4 @@
-// From Cloning the repository.
+// From Cloning the repositoryS.
 import React, { Component } from "react";
 import "./App.css";
 import Home from "./pages/HomePage";
